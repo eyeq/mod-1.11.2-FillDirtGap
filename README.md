@@ -1,4 +1,4 @@
-# [低い土の隙間を埋める]FillDirtGap
+# [草の道の隙間を埋める]FillDirtGap
 
 [**ダウンロード**](https://github.com/eyeq/mod-1.11.2-FillDirtGap/releases/download/1.0/1.11.2-FillDirtGap-1.0.jar)
 
